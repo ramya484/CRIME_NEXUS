@@ -1,0 +1,501 @@
+Suspect_ID,Name,Connections_Type,Connections_Level,Political_Affiliation,Ruling_Party_Influence,Crime_Severity,Crime_Type,Prior_Convictions,Public_Interest,Arrested
+1,Sanjay Roy,Mp,State,Ruling Party,Yes,High,Rape & Murder,No,High,Yes
+2,Manu Sharma,Mp,National,Ruling Party,No,Medium,Murder,No,Medium,Yes
+3,Ottavio Quattrocchi,Minister,National,Ruling Party,Yes,High,"Corruption, Bribery",No,High,No
+4,A. Raja,Minister,State,Ruling Party,Yes,High,"Corruption, Fraud, Bribery",Yes,High,Yes
+5,Mukesh Singh,None,None,None,No,High,Rape & Murder,Yes,High,Yes
+6,Ramalinga Raju,Businessman,National,None,No,High,"Fraud, Financial Misrepresentation",Yes,High,Yes
+7,Ajmal Kasab,Terrorist,International,None,No,High,"Terrorism, Murder, Conspiracy",Yes,High,Yes
+8,Keshub Mahindra,None,None,None,No,High,Criminal Negligence,Yes,High,Yes
+9,Rhea Chakraborty,None,National,None,No,Medium,"Drug Procurement, Consumption",No,High,Yes
+10,Kuntal Ghosh,None,Local,None,No,High,"Rape, Conspiracy",No,High,Yes
+11,Vijay Mallya,Minister,National,Ruling Party,Yes,High,"Financial Fraud, Bribery",Yes,High,No
+12,Yasin Bhatkal,Terrorist,National,None,No,High,"Terrorism, Bombing",Yes,High,Yes
+13,Nirav Modi,Mp,National,None,No,High,Financial Fraud (Bank Fraud),No,High,No
+14,Rana Kapoor,Minister,National,None,Yes,High,"Financial Fraud, Money Laundering",Yes,High,Yes
+15,Sanjay Dutt,None,National,None,No,High,Arms Act (Possession of Weapons),Yes,High,Yes
+16,Game Administrators,None,None,None,No,High,"Cyberbullying, Suicide Encouragement",No,High,Yes
+17,Rajesh Talwar,None,Local,None,No,High,Murder,No,High,No
+18,Indrani Mukerjea,Businessman,National,None,No,High,Murder,No,High,Yes
+19,Santosh Kumar Singh,None,State,None,No,High,Rape and Murder,No,High,Yes
+20,Vikas Yadav,None,National,Ruling Party,Yes,High,Murder,No,High,Yes
+21,Sanji Ram,None,Local,None,No,High,Rape and Murder,No,High,Yes
+22,Accused Villagers,None,None,None,No,High,Rape and Murder,No,High,Yes
+23,Kuljeet Singh,None,None,None,No,High,"Kidnapping, Murder",No,High,Yes
+24,Ravi Kant Sharma,None,State,None,No,High,Murder,No,Medium,Yes
+25,Unknown Suspect,None,None,None,No,High,Serial Killings,No,High,No
+26,Amarmani Tripathi,Minister,National,Ruling Party,Yes,High,"Murder, Conspiracy",No,High,Yes
+27,Sushil Sharma,None,State,Ruling Party,Yes,High,Murder,No,High,Yes
+28,Manoj Kumar,None,National,Ruling Party,Yes,High,"Corruption, Bribery",No,High,No
+29,Lalu Prasad Yadav,None,State,Ruling Party,Yes,High,"Embezzlement, Corruption",Yes,High,Yes
+30,Various Politicians,None,National,Ruling Party,Yes,High,"Money Laundering, Bribery",No,High,No
+31,Ashok Chavan,None,State,Ruling Party,Yes,High,"Corruption, Misuse of Authority",No,High,No
+32,Various Politicians & Officials,None,State,Ruling Party,Yes,High,"Recruitment Fraud, Corruption",No,High,No
+33,Mamata Banerjee,None,State,Ruling Party,Yes,High,"Bribery, Corruption",No,High,No
+34,Sudipta Sen,None,State,Ruling Party,Yes,High,"Financial Fraud, Ponzi Scheme",No,High,Yes
+35,Suresh Kalmadi,None,National,Ruling Party,Yes,High,"Corruption, Mismanagement",No,High,Yes
+36,Harshad Mehta,Businessman,National,None,No,High,"Financial Fraud, Misappropriation of Funds",Yes,High,Yes
+37,Maya Kodnani,Politician,State,Ruling Party,Yes,High,"Riot, Incitement to Violence",Yes,High,Yes
+38,Ajmer Dargah Blast,Terrorist,National,None,No,High,"Terrorism, Bombing",Yes,High,Yes
+39,Ishrat Jahan,None,National,None,No,High,"Murder, Encounter Killing",No,High,Yes
+40,Ritika Phogat,None,Local,None,No,Medium,Suicide,No,Medium,No
+41,Vismaya Dowry Death,None,Local,None,No,High,Dowry Death,No,High,Yes
+42,Sudha Bharadwaj,None,National,None,No,High,"Conspiracy, Sedition",No,High,Yes
+43,Shivamogga Harsha,None,Local,None,No,High,Murder,No,High,Yes
+44,Bulli Bai App Case,None,National,None,No,High,"Cyberbullying, Hate Speech",No,High,Yes
+45,Sulli Deals App Case,None,National,None,No,High,"Cyberbullying, Hate Speech",No,High,Yes
+46,Ravindra Jain,Businessman,National,None,No,High,"Financial Fraud, Bank Fraud",Yes,High,Yes
+47,George Fernandes,None,National,Ruling Party,Yes,High,"Corruption, Bribery",No,High,No
+48,Jagadish Tytler,None,National,Ruling Party,Yes,High,"Corruption, Fraud",Yes,High,Yes
+49,Hiranandani Family,None,State,Ruling Party,Yes,High,"Land Grab, Fraud",No,High,No
+50,Mamata Banerjee,None,State,Ruling Party,Yes,High,"Bribery, Corruption",Yes,High,No
+51,Sanjay Raut,None,State,Ruling Party,Yes,High,"Financial Mismanagement, Fraud",No,High,Yes
+52,Arvind Kejriwal,None,National,Ruling Party,Yes,High,"Corruption, Misappropriation",No,High,No
+53,Sukhbir Badal,None,State,Ruling Party,Yes,High,"Drug Trafficking, Corruption",Yes,High,Yes
+54,Sushma Swaraj,None,National,Ruling Party,Yes,High,"Bribery, Corruption",Yes,High,No
+55,Anil Ambani,Businessman,National,None,No,High,"Loan Default, Financial Fraud",Yes,High,No
+56,Raj Kundra,Businessman,National,None,No,High,Pornography,No,High,Yes
+57,Aryan Khan,None,National,None,No,High,"Drug Possession, Conspiracy",No,High,No
+58,Kangana Ranaut,None,National,None,No,High,Controversial Statements,No,High,No
+59,Papon,None,National,None,No,Medium,Molestation Allegations,No,Medium,No
+60,Rajpal Yadav,None,National,None,No,Medium,Loan Default,No,Medium,No
+61,Rekha,None,National,None,No,High,Suicide (Husband's case),No,High,No
+62,Kavya Madhavan,None,Local,None,No,High,Gold Smuggling,No,High,No
+63,Salman Khan,None,National,None,No,High,Blackbuck Poaching,Yes,High,Yes
+64,Manoj Agarwal,Businessman,National,None,No,High,Loan Scam,No,High,No
+65,Pradeep Agarwal,Businessman,National,None,No,High,Real Estate Scam,Yes,High,Yes
+66,Kunal Maken,Businessman,National,None,No,High,Corporate Fraud,No,High,No
+67,Jayalalithaa,Politician,State,AIADMK,Yes,High,"Disproportionate Assets, Corruption",Yes,High,Yes
+68,Akhilesh Yadav,Politician,State,Samajwadi Party,Yes,High,Recruitment Fraud,No,Medium,No
+69,Narayan Sai,None,National,None,No,High,"Rape, Conspiracy",Yes,High,Yes
+70,Subrata Roy,Businessman,National,None,No,High,"Financial Misappropriation, Fraud",Yes,High,Yes
+71,Mehul Choksi,Businessman,National,None,No,High,"Bank Fraud, Money Laundering",Yes,High,No
+72,Masood Azhar,Terrorist,International,None,No,High,"Terrorism, Bombing",Yes,High,No
+73,David Coleman Headley,Terrorist,International,None,No,High,"Terrorism, Conspiracy (26/11 Attacks)",Yes,High,Yes
+74,Nupur Sharma,Politician,National,BJP,Yes,Medium,"Hate Speech, Incitement to Violence",No,High,No
+75,Gauri Lankesh Murder,None,None,None,No,High,"Murder, Conspiracy",No,High,Yes
+76,Pegasus Spyware Case,None,None,Multiple,Yes,High,Illegal Surveillance,No,High,No
+77,Ritesh Agarwal,Businessman,National,None,No,Medium,Tax Evasion Allegations,No,Medium,No
+78,Nithyananda,None,International,None,No,High,"Rape, Conspiracy",Yes,High,No
+79,Karti Chidambaram,None,National,INC,Yes,High,Money Laundering,Yes,High,Yes
+80,Kuldeep Sengar,Politician,State,BJP,Yes,High,"Rape, Murder",No,High,Yes
+81,Neeraj Modi,Businessman,National,None,No,High,"Bank Fraud, Money Laundering",No,High,No
+82,Radhe Maa,None,National,None,No,Medium,"Fraud, Misrepresentation",No,Medium,No
+83,Shahabuddin,Politician,State,RJD,Yes,High,"Murder, Extortion",Yes,High,Yes
+84,P. Chidambaram,Politician,National,INC,Yes,High,Money Laundering,Yes,High,Yes
+85,Asaram Bapu,None,National,None,No,High,"Rape, Sexual Assault",Yes,High,Yes
+86,Gopal Ansal,Businessman,National,None,No,High,Criminal Negligence (Uphaar Fire Case),Yes,High,Yes
+87,Manu Sharma,None,State,INC,Yes,High,Murder,Yes,High,Yes
+88,Jignesh Mevani,Politician,State,None,No,Medium,"Hate Speech, Incitement",No,Medium,No
+89,Mohammed Shahabuddin,Politician,State,RJD,Yes,High,"Murder, Criminal Intimidation",Yes,High,Yes
+90,Nirav Modi,Businessman,International,None,No,High,Financial Fraud,Yes,High,No
+91,Anil Deshmukh,Politician,State,NCP,Yes,High,Money Laundering,Yes,High,Yes
+92,Laxmikant Parsekar,Politician,State,BJP,Yes,Medium,Recruitment Scam,No,Medium,No
+93,Vikas Dubey,None,State,None,No,High,"Murder, Organized Crime",Yes,High,Yes
+94,Tarun Tejpal,None,National,None,No,High,Sexual Harassment,No,High,No
+95,Indira Jaising,None,National,None,No,Medium,Money Laundering Allegations,No,Medium,No
+96,Rana Ayyub,None,National,None,No,Medium,Money Laundering Allegations,No,Medium,No
+97,Mukhtar Ansari,Politician,State,BSP,Yes,High,"Murder, Extortion",Yes,High,Yes
+98,Sukesh Chandrasekhar,None,National,None,No,High,"Fraud, Money Laundering",Yes,High,Yes
+99,Pragya Thakur,Politician,National,BJP,Yes,High,Terrorism,No,High,No
+100,Bhushan Kumar,Businessman,National,None,No,Medium,Sexual Harassment,No,Medium,No
+101,Rajeev Kumar,None,State,None,Yes,Medium,Evidence Tampering Allegations,No,Medium,No
+102,Zakir Naik,None,International,None,No,High,"Hate Speech, Money Laundering",Yes,High,No
+103,Aftab Poonawala,None,None,None,No,High,"Murder, Body Dismemberment",No,High,Yes
+104,Vijay Mallya,Businessman,International,None,No,High,"Financial Fraud, Loan Defaults",Yes,High,No
+105,Mohammed Zubair,None,National,None,No,Medium,Hate Speech Allegations,No,Medium,No
+106,Hardik Patel,Politician,State,None,No,Medium,Sedition Allegations,No,Medium,No
+107,Teesta Setalvad,None,National,None,No,High,Embezzlement Allegations,No,High,No
+108,Robert Vadra,Businessman,National,INC,Yes,High,"Land Grab, Money Laundering",No,High,No
+109,Arnab Goswami,None,National,None,No,Medium,Abetment of Suicide,No,High,No
+110,Kapil Sibal,Politician,National,INC,Yes,Medium,Money Laundering Allegations,No,Medium,No
+111,Raj Thackeray,Politician,State,MNS,No,Medium,Hate Speech,No,High,No
+112,Anil Ambani,Businessman,National,None,No,High,Loan Defaults,Yes,High,No
+113,Smriti Irani,Politician,National,BJP,Yes,Medium,Fake Degree Allegations,No,High,No
+114,Uddhav Thackeray,Politician,State,Shiv Sena,Yes,Medium,Financial Mismanagement Allegations,No,Medium,No
+115,Ravi Shankar Prasad,Politician,National,BJP,Yes,Medium,Corruption Allegations,No,Medium,No
+116,Kangana Ranaut,None,National,None,No,Medium,Hate Speech,No,Medium,No
+117,P. V. Narasimha Rao,None,National,INC,Yes,High,"Corruption, Bribery",No,High,No
+118,Lalu Prasad Yadav Family,None,State,RJD,Yes,High,Land Grab Allegations,Yes,High,No
+119,Subramanian Swamy,Politician,National,BJP,Yes,Medium,Defamation Cases,No,Medium,No
+120,Salman Khan,None,National,None,No,Medium,Hit and Run,Yes,High,No
+121,K. Chandrashekar Rao,Politician,State,TRS,Yes,Medium,Financial Mismanagement Allegations,No,Medium,No
+122,Aditya Thackeray,None,State,Shiv Sena,Yes,Medium,Corruption Allegations,No,Medium,No
+123,Vijay Shekhar Sharma,Businessman,National,None,No,Medium,Financial Misrepresentation Allegations,No,Medium,No
+124,Sunny Deol,None,National,BJP,Yes,Medium,Financial Fraud Allegations,No,Medium,No
+125,Raj Kundra,Businessman,National,None,No,Medium,Financial Misconduct Allegations,No,High,No
+126,Amit Shah,Politician,National,BJP,Yes,High,Encounter Killing Allegations,No,High,No
+127,Rahul Gandhi,Politician,National,INC,Yes,Medium,Defamation Allegations,No,Medium,No
+128,Arvind Kejriwal,None,State,AAP,Yes,Medium,"Corruption, Misuse of Power",No,High,No
+129,Akhilesh Yadav,Politician,State,SP,Yes,Medium,Financial Mismanagement Allegations,No,Medium,No
+130,Rajeev Chandrasekhar,Businessman,National,BJP,Yes,Medium,Land Grab Allegations,No,Medium,No
+131,Suvendu Adhikari,Politician,State,BJP,Yes,Medium,Corruption Allegations,No,Medium,No
+132,Sharad Pawar,Politician,National,NCP,Yes,Medium,"Land Grab, Financial Misconduct",No,High,No
+133,Himanta Biswa Sarma,None,State,BJP,Yes,Medium,Corruption Allegations,No,Medium,No
+134,Ramesh Jarkiholi,Minister,State,BJP,Yes,Medium,Sexual Harassment Allegations,No,Medium,No
+135,Praful Patel,Politician,National,NCP,Yes,Medium,Corruption Allegations,No,Medium,No
+136,Misa Bharti,None,State,RJD,Yes,Medium,Financial Fraud Allegations,No,Medium,No
+137,Tej Pratap Yadav,Politician,State,RJD,Yes,Medium,Financial Mismanagement,No,Medium,No
+138,Amarinder Singh,Politician,State,BJP,Yes,Medium,Corruption Allegations,No,Medium,No
+139,Abhishek Banerjee,Politician,State,TMC,Yes,High,Money Laundering,Yes,High,Yes
+140,Sonia Gandhi,Politician,National,INC,Yes,Medium,Financial Fraud Allegations,No,High,No
+141,Rahul Gandhi,Politician,National,INC,Yes,Medium,Financial Mismanagement Allegations,No,Medium,No
+142,Priyanka Gandhi,Politician,National,INC,Yes,Medium,Property Dispute Allegations,No,Medium,No
+143,Baba Ramdev,Businessman,National,None,No,Medium,Financial Misrepresentation Allegations,No,Medium,No
+144,Adani Group Officials,None,National,None,No,High,"Financial Fraud, Stock Manipulation",Yes,High,Yes
+145,Gautam Adani,Businessman,National,None,No,High,Financial Misrepresentation Allegations,Yes,High,Yes
+146,Karti Chidambaram,None,National,INC,Yes,Medium,Financial Mismanagement Allegations,No,High,No
+147,Lalit Modi,Businessman,National,None,No,High,Tax Evasion,Yes,High,Yes
+148,Naresh Goyal,Businessman,National,None,No,High,Financial Fraud,Yes,High,Yes
+149,Nirav Modi,Businessman,National,None,No,High,"Bank Fraud, Embezzlement",Yes,High,Yes
+150,Mehul Choksi,Businessman,International,None,No,High,Financial Fraud,Yes,High,Yes
+151,Raghuram Rajan,None,International,None,No,Medium,Financial Mismanagement Allegations,No,Medium,No
+152,Nandan Nilekani,Businessman,National,None,No,Medium,Data Privacy Allegations,No,Medium,No
+153,V. K. Sasikala,Politician,State,AIADMK,Yes,Medium,Corruption Allegations,Yes,Medium,Yes
+154,Sharjeel Imam,None,National,None,No,Medium,Sedition Allegations,No,Medium,No
+155,Barkha Dutt,None,National,None,No,Medium,Defamation,No,Medium,No
+156,Arnab Goswami,None,National,None,No,Medium,TRP Scam Allegations,Yes,Medium,Yes
+157,Kanhaiya Kumar,Politician,National,CPI,No,Medium,Sedition Allegations,No,Medium,No
+158,Hardik Patel,Politician,State,INC,Yes,Medium,Sedition Allegations,No,Medium,No
+159,Omar Abdullah,Politician,State,National Conference,Yes,Medium,Corruption Allegations,No,Medium,No
+160,Farooq Abdullah,Politician,State,National Conference,Yes,Medium,Financial Fraud Allegations,Yes,Medium,Yes
+161,Asaduddin Owaisi,Politician,State,AIMIM,Yes,Medium,Hate Speech,No,Medium,No
+162,Kiren Rijiju,Politician,State,BJP,Yes,Medium,Corruption Allegations,No,Medium,No
+163,A. Raja,Politician,State,DMK,Yes,Medium,Spectrum Scam Allegations,Yes,High,Yes
+164,D. K. Shivakumar,Politician,State,INC,Yes,Medium,Money Laundering Allegations,No,Medium,No
+165,Jagdish Tytler,Politician,National,INC,Yes,High,"Riots, Conspiracy",Yes,High,Yes
+166,Tarun Tejpal,None,National,None,No,Medium,Sexual Harassment Allegations,Yes,High,Yes
+167,Vijay Mallya,Businessman,National,None,No,High,"Bank Fraud, Money Laundering",Yes,High,Yes
+168,Alok Verma,None,National,None,No,Medium,Corruption Allegations,No,Medium,No
+169,Rakesh Asthana,None,National,None,No,Medium,Corruption Allegations,No,Medium,No
+170,Nupur Sharma,Politician,National,BJP,Yes,Medium,Hate Speech,No,Medium,No
+171,Yogi Adityanath,Politician,State,BJP,Yes,Medium,Hate Speech,No,Medium,No
+172,Anil Ambani,Businessman,National,None,No,High,"Financial Fraud, Loan Default",Yes,High,No
+173,Raj Kundra,Businessman,National,None,No,High,Pornography Production,No,High,Yes
+174,Aryan Khan,None,National,None,No,High,Drug Possession,No,High,No
+175,Kangana Ranaut,None,National,None,No,High,Controversial Statements,No,High,No
+176,Papon,None,National,None,No,Medium,Molestation Allegations,No,Medium,No
+177,Rajpal Yadav,None,National,None,No,Medium,Loan Default,No,Medium,No
+178,Rekha,None,National,None,No,High,Suicide (Husband's Case),No,High,No
+179,Kavya Madhavan,None,Local,None,No,High,Gold Smuggling,No,High,No
+180,Salman Khan,None,National,None,No,High,Blackbuck Poaching,Yes,High,Yes
+181,Manoj Agarwal,Businessman,National,None,No,High,Loan Scam,No,High,No
+182,Pradeep Agarwal,Businessman,National,None,No,High,Real Estate Scam,Yes,High,Yes
+183,Kunal Maken,Businessman,National,None,No,High,Corporate Fraud,No,High,No
+184,Yasin Bhatkal,Terrorist,International,None,No,High,"Terrorism, Bombing",Yes,High,Yes
+185,Ajmal Kasab,Terrorist,International,None,No,High,"Terrorism, Murder, Conspiracy",Yes,High,Yes
+186,Vikas Yadav,None,National,Ruling Party,Yes,High,Murder,No,High,Yes
+187,Rajesh Talwar,None,Local,None,No,High,Murder,No,High,No
+188,Indrani Mukerjea,None,National,None,No,High,Murder,No,High,Yes
+189,Santosh Kumar Singh,None,State,None,No,High,"Rape, Murder",No,High,Yes
+190,Lalu Prasad Yadav,None,State,Ruling Party,Yes,High,"Embezzlement, Corruption",Yes,High,Yes
+191,Ashok Chavan,None,State,Ruling Party,Yes,High,"Corruption, Misuse of Authority",No,High,No
+192,Suresh Kalmadi,None,National,Ruling Party,Yes,High,"Corruption, Mismanagement",No,High,Yes
+193,Maya Kodnani,Politician,State,Ruling Party,Yes,High,"Riot, Incitement to Violence",Yes,High,Yes
+194,Harshad Mehta,Businessman,National,None,No,High,"Financial Fraud, Misappropriation of Funds",Yes,High,Yes
+195,Sudipta Sen,None,State,Ruling Party,Yes,High,"Financial Fraud, Ponzi Scheme",No,High,Yes
+196,George Fernandes,None,National,Ruling Party,Yes,High,"Corruption, Bribery",No,High,No
+197,Jagadish Tytler,None,National,Ruling Party,Yes,High,"Corruption, Fraud",Yes,High,Yes
+198,Hiranandani Family,None,State,Ruling Party,Yes,High,"Land Grab, Fraud",No,High,No
+199,Mamata Banerjee,None,State,Ruling Party,Yes,High,"Bribery, Corruption",Yes,High,No
+200,Sanjay Raut,None,State,Ruling Party,Yes,High,"Financial Mismanagement, Fraud",No,High,Yes
+201,Arvind Kejriwal,None,National,AAP,Yes,High,"Corruption, Misappropriation",No,High,No
+202,Sukhbir Badal,None,State,Ruling Party,Yes,High,"Drug Trafficking, Corruption",Yes,High,Yes
+203,Sushma Swaraj,None,National,Ruling Party,Yes,High,"Bribery, Corruption",Yes,High,No
+204,Nupur Sharma,Politician,National,BJP,Yes,High,Hate Speech,No,High,No
+205,Amarmani Tripathi,Minister,National,Ruling Party,Yes,High,"Murder, Conspiracy",No,High,Yes
+206,Sushil Sharma,None,State,Ruling Party,Yes,High,Murder,No,High,Yes
+207,Manoj Kumar,None,National,Ruling Party,Yes,High,"Corruption, Bribery",No,High,No
+208,Various Politicians,None,National,Ruling Party,Yes,High,"Money Laundering, Bribery",No,High,No
+209,Kiran Bedi,None,National,None,No,Medium,Corruption Allegations,No,Medium,No
+210,Sharjeel Imam,None,National,None,No,High,Sedition,No,High,No
+211,Nandini Sundar,None,National,None,No,Medium,Sedition,No,Medium,No
+212,Tarun Tejpal,None,National,None,No,High,Sexual Harassment,Yes,High,Yes
+213,Vijay Mallya,Businessman,National,None,No,High,"Financial Fraud, Money Laundering",Yes,High,Yes
+214,Alok Verma,None,National,None,No,Medium,Corruption Allegations,No,Medium,No
+215,Rakesh Asthana,None,National,None,No,Medium,Corruption Allegations,No,Medium,No
+216,Nandini Mistry,None,National,None,No,Medium,Intellectual Property Theft,No,Medium,No
+217,Kanhaiya Kumar,Politician,National,CPI,No,High,Sedition Allegations,No,Medium,No
+218,Sushil Kumar Modi,Politician,State,BJP,Yes,High,"Financial Fraud, Bribery",No,High,No
+219,Raj Thackeray,Politician,State,Ruling Party,Yes,High,"Kidnapping, Murder",Yes,High,No
+220,Rana Kapoor,Businessman,National,None,No,High,Terrorism,No,High,No
+221,Ashok Chavan,None,State,None,No,High,"Fraud, Misrepresentation",Yes,High,Yes
+222,Sharad Pawar,None,None,None,Yes,High,Criminal Negligence,Yes,High,No
+223,Suvendu Adhikari,None,National,Ruling Party,No,Medium,"Rape, Murder",No,High,Yes
+224,Manu Sharma,Politician,National,Ruling Party,No,High,"Kidnapping, Murder",No,Medium,Yes
+225,Rana Kapoor,Terrorist,National,None,Yes,High,"Land Grab, Financial Misconduct",No,High,No
+226,Akhilesh Yadav,None,National,None,No,High,Recruitment Fraud,No,High,Yes
+227,Vijay Mallya,Mp,National,Ruling Party,No,Medium,Corporate Fraud,Yes,High,Yes
+228,Suresh Kalmadi,Politician,National,Ruling Party,No,Medium,Real Estate Scam,No,High,Yes
+229,Aryan Khan,None,International,None,No,High,"Financial Fraud, Ponzi Scheme",No,Medium,No
+230,Kangana Ranaut,None,National,DMK,Yes,Medium,Sexual Harassment Allegations,No,High,Yes
+231,Nithyananda,Businessman,National,None,Yes,Medium,Data Privacy Allegations,Yes,Medium,No
+232,Ajmal Kasab,Politician,National,BJP,Yes,High,"Corruption, Bribery",No,High,No
+233,Various Politicians & Officials,None,State,NCP,No,Medium,"Bribery, Corruption",No,High,No
+234,Jignesh Mevani,Politician,Local,None,Yes,High,Corruption Allegations,No,High,Yes
+235,Farooq Abdullah,Politician,National,None,No,High,"Cyberbullying, Suicide Encouragement",No,High,No
+236,Arvind Kejriwal,None,State,None,No,High,"Land Grab, Fraud",Yes,High,No
+237,Sushma Swaraj,Businessman,National,None,Yes,High,Corruption Allegations,No,High,Yes
+238,Robert Vadra,None,State,None,No,High,"Corruption, Mismanagement",Yes,High,No
+239,Tej Pratap Yadav,None,National,None,Yes,High,Sexual Harassment Allegations,No,High,Yes
+240,Subramanian Swamy,None,State,National Conference,Yes,High,Sedition Allegations,No,High,No
+241,Shivamogga Harsha,None,State,None,Yes,High,Murder,No,High,Yes
+242,Kiran Bedi,Politician,State,None,No,High,Financial Fraud (Bank Fraud),No,High,Yes
+243,Vijay Mallya,None,National,None,Yes,High,Controversial Statements,No,High,Yes
+244,Kuldeep Sengar,None,National,RJD,Yes,High,"Murder, Conspiracy",Yes,High,No
+245,Manoj Agarwal,None,National,None,Yes,High,Hate Speech,Yes,High,No
+246,Manoj Agarwal,None,National,None,No,High,"Bank Fraud, Money Laundering",Yes,High,No
+247,Alok Verma,Businessman,National,None,No,High,"Murder, Extortion",No,High,No
+248,Raj Thackeray,None,National,INC,No,Medium,Sedition Allegations,No,High,Yes
+249,Maya Kodnani,None,None,INC,No,High,"Drug Possession, Conspiracy",No,High,No
+250,Sanjay Raut,Politician,National,None,No,High,Data Privacy Allegations,No,High,No
+251,Mamata Banerjee,Politician,None,None,No,High,"Bank Fraud, Money Laundering",No,High,Yes
+252,Hardik Patel,None,National,None,No,High,Hit and Run,No,Medium,No
+253,Arnab Goswami,Politician,State,BSP,No,High,Sedition Allegations,No,High,Yes
+254,Nandini Mistry,None,National,None,Yes,High,Criminal Negligence (Uphaar Fire Case),Yes,Medium,Yes
+255,D. K. Shivakumar,Politician,National,RJD,No,Medium,Loan Scam,No,High,Yes
+256,Asaduddin Owaisi,Politician,National,BJP,Yes,Medium,Corruption Allegations,No,High,Yes
+257,V. K. Sasikala,None,State,AAP,Yes,High,Dowry Death,Yes,High,Yes
+258,Kangana Ranaut,None,None,INC,Yes,High,Loan Scam,Yes,High,Yes
+259,Tej Pratap Yadav,None,International,None,No,High,Sedition Allegations,Yes,High,No
+260,Sunny Deol,None,State,None,Yes,High,Financial Fraud,No,Medium,Yes
+261,Salman Khan,Politician,National,MNS,Yes,High,Corruption Allegations,No,High,Yes
+262,Jagadish Tytler,None,National,AIADMK,Yes,Medium,Corruption Allegations,No,High,Yes
+263,Ritika Phogat,None,National,None,No,High,Corruption Allegations,No,High,Yes
+264,Various Politicians,None,None,Ruling Party,Yes,High,"Conspiracy, Sedition",Yes,High,No
+265,Mehul Choksi,None,National,None,Yes,High,Financial Fraud Allegations,No,High,No
+266,Manoj Agarwal,None,State,Ruling Party,Yes,High,"Financial Fraud, Loan Defaults",Yes,High,No
+267,Naresh Goyal,None,National,Ruling Party,No,Medium,"Bribery, Corruption",No,High,Yes
+268,Yasin Bhatkal,Businessman,National,None,Yes,High,"Recruitment Fraud, Corruption",No,Medium,No
+269,Hardik Patel,None,State,Ruling Party,No,Medium,"Land Grab, Money Laundering",No,Medium,No
+270,Sudha Bharadwaj,Businessman,National,NCP,Yes,Medium,Sedition Allegations,No,Medium,Yes
+271,Gopal Ansal,Politician,State,None,Yes,High,Sexual Harassment Allegations,Yes,High,Yes
+272,Ajmal Kasab,None,National,None,No,High,Murder,No,High,No
+273,Kuntal Ghosh,Businessman,State,None,No,Medium,Molestation Allegations,Yes,Medium,No
+274,Sharjeel Imam,Politician,National,BJP,No,High,Money Laundering Allegations,Yes,High,No
+275,Raj Thackeray,None,National,None,No,High,Corruption Allegations,No,Medium,Yes
+276,Hardik Patel,None,State,None,No,Medium,"Fraud, Financial Misrepresentation",No,High,No
+277,K. Chandrashekar Rao,None,State,None,No,Medium,Pornography Production,No,Medium,No
+278,K. Chandrashekar Rao,Politician,National,Ruling Party,Yes,High,Murder,No,High,Yes
+279,V. K. Sasikala,Businessman,National,Ruling Party,Yes,Medium,"Corruption, Fraud",No,Medium,Yes
+280,Anil Deshmukh,Politician,National,None,Yes,Medium,"Hate Speech, Incitement",No,High,No
+281,Lalu Prasad Yadav,Businessman,National,INC,No,Medium,"Terrorism, Bombing",No,High,No
+282,Ravi Shankar Prasad,Businessman,National,None,No,High,Hate Speech,No,High,No
+283,Akhilesh Yadav,None,State,INC,No,Medium,"Rape, Murder",Yes,Medium,No
+284,Kanhaiya Kumar,None,National,BJP,No,High,Murder,No,Medium,Yes
+285,Ravi Kant Sharma,Businessman,National,None,Yes,High,Corruption Allegations,Yes,High,Yes
+286,Papon,None,National,Ruling Party,No,High,"Corruption, Bribery",No,High,No
+287,Kapil Sibal,None,National,None,Yes,High,"Corruption, Mismanagement",No,High,No
+288,Shahabuddin,None,State,Ruling Party,No,High,"Murder, Encounter Killing",No,High,No
+289,Sushil Sharma,Politician,None,BJP,No,High,"Terrorism, Bombing",No,Medium,No
+290,Manu Sharma,None,None,None,No,Medium,"Corruption, Bribery",Yes,High,Yes
+291,Rekha,Businessman,National,Ruling Party,No,High,Pornography,No,Medium,No
+292,Rajesh Talwar,Businessman,National,None,Yes,High,"Corruption, Misuse of Authority",Yes,Medium,No
+293,Aryan Khan,None,National,None,Yes,Medium,"Bribery, Corruption",No,High,Yes
+294,Suvendu Adhikari,Politician,None,BJP,No,High,"Financial Mismanagement, Fraud",No,Medium,Yes
+295,Rana Kapoor,None,National,Ruling Party,No,High,Money Laundering Allegations,No,High,Yes
+296,Yasin Bhatkal,None,International,Ruling Party,Yes,High,Hate Speech,No,High,No
+297,Ishrat Jahan,None,National,None,No,Medium,"Corruption, Misappropriation",Yes,High,No
+298,Arnab Goswami,Minister,International,BJP,No,High,Serial Killings,No,Medium,Yes
+299,Sukesh Chandrasekhar,Politician,State,None,Yes,High,Financial Mismanagement Allegations,Yes,High,No
+300,Keshub Mahindra,Businessman,National,None,Yes,Medium,"Bank Fraud, Money Laundering",No,High,No
+301,Arvind Kejriwal,Terrorist,State,None,Yes,High,Murder,No,Medium,No
+302,Kuntal Ghosh,Politician,National,None,Yes,High,Financial Mismanagement Allegations,No,Medium,No
+303,Raghuram Rajan,Businessman,State,Shiv Sena,Yes,Medium,"Fraud, Money Laundering",Yes,High,No
+304,Kangana Ranaut,Businessman,National,None,Yes,High,Real Estate Scam,No,High,No
+305,Sonia Gandhi,Businessman,State,None,Yes,High,Sexual Harassment Allegations,No,High,No
+306,Yogi Adityanath,None,National,BJP,No,High,"Hate Speech, Incitement",No,Medium,No
+307,Kuldeep Sengar,Politician,National,None,No,Medium,Land Grab Allegations,Yes,Medium,Yes
+308,Suresh Kalmadi,Businessman,State,Ruling Party,No,High,"Financial Fraud, Ponzi Scheme",Yes,High,No
+309,Vijay Mallya,None,State,None,No,High,"Bribery, Corruption",Yes,High,Yes
+310,A. Raja,None,State,None,Yes,High,Sexual Harassment Allegations,No,Medium,Yes
+311,Vijay Mallya,Politician,Local,Ruling Party,No,High,Financial Misrepresentation Allegations,No,High,Yes
+312,Kangana Ranaut,Politician,State,None,Yes,High,Corruption Allegations,No,High,Yes
+313,Mohammed Shahabuddin,None,International,Ruling Party,No,High,Sedition Allegations,No,High,No
+314,Bulli Bai App Case,None,National,None,No,High,Blackbuck Poaching,No,High,No
+315,Karti Chidambaram,Businessman,National,None,Yes,Medium,"Murder, Conspiracy",Yes,High,No
+316,Gopal Ansal,Politician,National,None,Yes,High,"Financial Fraud, Misappropriation of Funds",Yes,High,No
+317,Sudipta Sen,Businessman,National,None,Yes,High,Rape and Murder,No,High,Yes
+318,Ajmal Kasab,Businessman,Local,National Conference,No,High,"Cyberbullying, Suicide Encouragement",No,High,No
+319,Yasin Bhatkal,None,State,Ruling Party,Yes,High,Corporate Fraud,No,High,Yes
+320,Rana Kapoor,Politician,State,None,Yes,Medium,Financial Mismanagement Allegations,Yes,High,No
+321,Misa Bharti,Minister,National,INC,No,High,"Land Grab, Fraud",No,High,No
+322,Salman Khan,None,National,None,No,Medium,"Corruption, Bribery",No,High,No
+323,Rajesh Talwar,Politician,International,None,No,Medium,"Corruption, Fraud",No,High,No
+324,Rekha,None,State,None,Yes,High,Pornography Production,No,High,No
+325,Rekha,Businessman,None,None,Yes,High,"Bank Fraud, Embezzlement",No,High,No
+326,Teesta Setalvad,None,State,BJP,No,High,Defamation Allegations,No,High,Yes
+327,Salman Khan,None,National,BJP,No,Medium,Financial Mismanagement,No,High,No
+328,Kangana Ranaut,None,International,None,Yes,High,"Bank Fraud, Money Laundering",Yes,Medium,Yes
+329,Sudha Bharadwaj,None,State,None,Yes,High,Serial Killings,Yes,High,Yes
+330,Nupur Sharma,None,State,None,No,Medium,"Corruption, Misuse of Authority",Yes,High,Yes
+331,Teesta Setalvad,None,International,AIADMK,No,Medium,"Murder, Extortion",No,High,No
+332,Hardik Patel,Businessman,National,BJP,No,High,Defamation,No,High,Yes
+333,Kuntal Ghosh,None,National,None,Yes,High,"Embezzlement, Corruption",Yes,Medium,Yes
+334,Sushil Sharma,None,National,None,No,High,Controversial Statements,Yes,High,No
+335,Rajesh Talwar,Politician,National,Ruling Party,No,High,Controversial Statements,No,Medium,No
+336,Zakir Naik,Politician,National,None,Yes,High,Financial Mismanagement Allegations,No,Medium,Yes
+337,Tej Pratap Yadav,None,National,None,Yes,Medium,"Riot, Incitement to Violence",No,Medium,No
+338,Raj Kundra,Businessman,National,BJP,Yes,High,"Murder, Body Dismemberment",Yes,High,Yes
+339,Kunal Maken,None,National,None,Yes,Medium,Evidence Tampering Allegations,No,High,No
+340,Sukesh Chandrasekhar,None,National,None,No,Medium,"Corruption, Misuse of Authority",Yes,High,Yes
+341,Manoj Agarwal,None,National,None,Yes,High,"Murder, Extortion",No,High,Yes
+342,Sukesh Chandrasekhar,Businessman,Local,None,No,High,"Financial Mismanagement, Fraud",No,Medium,No
+343,Arvind Kejriwal,Businessman,National,None,No,Medium,"Financial Fraud, Loan Defaults",No,Medium,No
+344,D. K. Shivakumar,Mp,State,None,Yes,High,Corruption Allegations,Yes,High,No
+345,Shivamogga Harsha,Businessman,National,None,No,High,Sexual Harassment Allegations,Yes,Medium,No
+346,Ishrat Jahan,Politician,National,None,No,High,"Bribery, Corruption",Yes,High,Yes
+347,Mehul Choksi,None,State,None,Yes,High,Rape and Murder,No,High,No
+348,Harshad Mehta,None,State,Ruling Party,No,Medium,"Drug Trafficking, Corruption",Yes,Medium,Yes
+349,Neeraj Modi,None,State,None,No,High,Defamation,No,High,No
+350,Mukesh Singh,Politician,National,None,Yes,High,"Riots, Conspiracy",No,High,No
+351,Narayan Sai,None,National,Ruling Party,Yes,High,Sedition,No,Medium,Yes
+352,Rakesh Asthana,None,National,BJP,No,Medium,"Bank Fraud, Money Laundering",No,High,No
+353,Rekha,None,National,INC,No,Medium,"Corruption, Mismanagement",Yes,Medium,No
+354,Nithyananda,None,State,Ruling Party,No,Medium,"Disproportionate Assets, Corruption",No,High,Yes
+355,Manu Sharma,None,State,None,Yes,High,"Terrorism, Bombing",Yes,High,No
+356,Ashok Chavan,None,National,CPI,No,High,Murder,No,High,Yes
+357,Amarmani Tripathi,None,National,None,No,High,"Murder, Conspiracy",No,Medium,No
+358,Raj Kundra,None,International,Ruling Party,No,High,Financial Mismanagement Allegations,Yes,High,No
+359,Ajmal Kasab,Politician,National,CPI,No,High,Financial Mismanagement Allegations,No,High,No
+360,Sushil Sharma,Businessman,State,None,No,High,Gold Smuggling,No,Medium,No
+361,D. K. Shivakumar,None,National,None,Yes,Medium,"Financial Fraud, Money Laundering",No,High,No
+362,Arnab Goswami,Politician,National,RJD,No,High,"Money Laundering, Bribery",Yes,High,No
+363,Santosh Kumar Singh,None,National,None,Yes,High,Corporate Fraud,Yes,High,No
+364,Ravi Kant Sharma,Politician,National,None,Yes,High,"Murder, Conspiracy",No,High,Yes
+365,Raj Thackeray,None,State,None,Yes,Medium,"Financial Fraud, Ponzi Scheme",No,High,Yes
+366,Akhilesh Yadav,None,State,None,Yes,High,Hate Speech,No,High,No
+367,Various Politicians,Politician,National,None,No,Medium,Money Laundering Allegations,Yes,Medium,No
+368,Rajeev Chandrasekhar,Businessman,National,None,No,Medium,Financial Mismanagement Allegations,No,Medium,Yes
+369,Rahul Gandhi,None,National,None,Yes,Medium,"Rape, Conspiracy",Yes,High,Yes
+370,Misa Bharti,None,National,None,No,High,Molestation Allegations,Yes,High,No
+371,Hardik Patel,None,State,Ruling Party,No,High,"Rape, Murder",No,High,No
+372,Mohammed Shahabuddin,Politician,State,None,No,Medium,Financial Misconduct Allegations,Yes,High,No
+373,Vijay Mallya,None,National,None,Yes,High,"Cyberbullying, Hate Speech",No,High,No
+374,George Fernandes,None,National,BJP,No,Medium,Land Grab Allegations,No,High,Yes
+375,Vismaya Dowry Death,Politician,State,None,No,High,"Terrorism, Bombing",No,High,Yes
+376,Ravi Shankar Prasad,Businessman,National,None,No,Medium,Gold Smuggling,No,High,No
+377,Sushil Kumar Modi,Businessman,National,BJP,Yes,High,"Corruption, Bribery",No,Medium,Yes
+378,Hardik Patel,Politician,National,Ruling Party,No,Medium,"Land Grab, Money Laundering",No,High,No
+379,V. K. Sasikala,None,National,BJP,Yes,High,"Riot, Incitement to Violence",No,High,Yes
+380,Alok Verma,Politician,National,BJP,Yes,High,Real Estate Scam,No,Medium,Yes
+381,Arvind Kejriwal,None,National,TMC,Yes,Medium,Money Laundering Allegations,Yes,High,No
+382,Rajeev Kumar,Businessman,National,None,No,High,"Bribery, Corruption",No,Medium,Yes
+383,Masood Azhar,None,State,BJP,Yes,High,Murder,No,High,No
+384,P. Chidambaram,None,National,RJD,No,High,Murder,Yes,Medium,No
+385,Abhishek Banerjee,None,National,None,Yes,Medium,"Land Grab, Fraud",Yes,Medium,Yes
+386,Anil Ambani,None,National,Ruling Party,Yes,Medium,Murder,No,High,No
+387,Pradeep Agarwal,None,National,BJP,Yes,Medium,"Financial Fraud, Misappropriation of Funds",No,High,No
+388,Harshad Mehta,Politician,National,AIADMK,No,High,Loan Scam,Yes,High,Yes
+389,David Coleman Headley,Businessman,National,None,Yes,High,Financial Fraud Allegations,No,High,Yes
+390,Asaram Bapu,Terrorist,National,BJP,Yes,High,"Bank Fraud, Money Laundering",No,High,Yes
+391,Manu Sharma,Politician,National,Ruling Party,No,High,Hate Speech,No,Medium,No
+392,Tarun Tejpal,None,National,INC,Yes,Medium,Rape and Murder,No,High,No
+393,Aditya Thackeray,None,State,None,No,High,"Financial Fraud, Ponzi Scheme",No,High,No
+394,Bhushan Kumar,Businessman,State,None,No,Medium,"Drug Trafficking, Corruption",No,High,Yes
+395,Salman Khan,None,International,INC,Yes,High,Financial Mismanagement Allegations,No,High,No
+396,Sudipta Sen,None,Local,INC,No,Medium,"Financial Fraud, Money Laundering",No,High,No
+397,Sudipta Sen,None,State,AAP,Yes,High,"Financial Fraud, Misappropriation of Funds",No,High,No
+398,Asaram Bapu,None,None,AIADMK,No,High,"Corruption, Bribery",No,Medium,No
+399,Ishrat Jahan,Politician,State,Ruling Party,No,Medium,"Riot, Incitement to Violence",No,High,No
+400,Amarmani Tripathi,None,None,TRS,Yes,Medium,"Murder, Extortion",No,High,Yes
+401,Sanjay Dutt,None,National,None,Yes,High,"Drug Procurement, Consumption",No,High,No
+402,Shivamogga Harsha,None,State,Ruling Party,No,High,"Money Laundering, Bribery",No,Medium,No
+403,Rana Kapoor,Politician,None,INC,Yes,High,"Corruption, Bribery",No,High,Yes
+404,Pradeep Agarwal,None,National,None,No,Medium,Hate Speech,No,Medium,No
+405,Ramesh Jarkiholi,None,State,National Conference,No,High,"Murder, Criminal Intimidation",No,Medium,No
+406,Amit Shah,None,National,TRS,Yes,Medium,"Money Laundering, Bribery",No,High,No
+407,Vikas Yadav,Businessman,State,National Conference,No,Medium,"Conspiracy, Sedition",Yes,High,No
+408,Nupur Sharma,None,International,None,No,High,Drug Possession,No,High,Yes
+409,Aftab Poonawala,None,State,INC,Yes,High,Murder,No,High,No
+410,Rajesh Talwar,Mp,National,None,No,High,Loan Default,No,High,No
+411,V. K. Sasikala,None,National,AAP,Yes,High,"Cyberbullying, Hate Speech",No,High,No
+412,Laxmikant Parsekar,None,National,CPI,Yes,Medium,Corruption Allegations,Yes,High,Yes
+413,Yogi Adityanath,Politician,National,Ruling Party,Yes,High,"Corruption, Fraud",Yes,High,Yes
+414,Lalu Prasad Yadav Family,Businessman,State,None,No,High,Tax Evasion Allegations,No,High,No
+415,Akhilesh Yadav,Businessman,National,BJP,Yes,High,Corruption Allegations,No,High,Yes
+416,Arnab Goswami,None,State,None,No,High,Loan Scam,No,High,No
+417,Rajpal Yadav,None,National,None,Yes,High,Money Laundering,No,High,No
+418,Sunny Deol,Businessman,National,CPI,No,High,Financial Mismanagement Allegations,Yes,High,Yes
+419,Sharjeel Imam,Businessman,None,Ruling Party,No,High,"Bribery, Corruption",No,Medium,No
+420,Harshad Mehta,Politician,National,INC,Yes,High,Corruption Allegations,Yes,High,Yes
+421,Sudipta Sen,None,None,BJP,No,High,"Terrorism, Murder, Conspiracy",Yes,High,Yes
+422,Gautam Adani,None,Local,None,Yes,Medium,Sedition Allegations,No,High,No
+423,A. Raja,None,State,INC,Yes,High,Money Laundering,Yes,Medium,No
+424,Rajesh Talwar,None,National,Multiple,No,Medium,"Land Grab, Money Laundering",Yes,High,No
+425,Indrani Mukerjea,None,None,Ruling Party,No,High,"Murder, Body Dismemberment",No,Medium,No
+426,Ajmal Kasab,Politician,National,BJP,Yes,High,"Riot, Incitement to Violence",No,High,Yes
+427,Salman Khan,Politician,State,None,No,High,Financial Fraud Allegations,Yes,Medium,No
+428,Rajpal Yadav,None,National,Ruling Party,No,Medium,Pornography Production,Yes,Medium,No
+429,Rajpal Yadav,None,National,Ruling Party,No,Medium,Financial Fraud,No,Medium,No
+430,Anil Ambani,None,State,None,Yes,High,"Terrorism, Murder, Conspiracy",No,High,No
+431,Kanhaiya Kumar,None,State,None,No,High,"Bank Fraud, Money Laundering",No,High,Yes
+432,Rajesh Talwar,None,State,BJP,Yes,High,"Terrorism, Bombing",No,High,No
+433,Rakesh Asthana,None,National,None,Yes,Medium,Corruption Allegations,No,High,No
+434,Indrani Mukerjea,None,National,RJD,No,Medium,Hate Speech,No,Medium,No
+435,Lalu Prasad Yadav Family,None,National,Samajwadi Party,No,High,Recruitment Fraud,No,High,No
+436,Kunal Maken,None,Local,BJP,No,High,"Terrorism, Conspiracy (26/11 Attacks)",Yes,High,Yes
+437,V. K. Sasikala,Businessman,Local,None,Yes,High,Criminal Negligence (Uphaar Fire Case),No,High,No
+438,Sharjeel Imam,None,State,None,Yes,High,"Murder, Body Dismemberment",Yes,Medium,No
+439,Shahabuddin,None,National,INC,No,Medium,Spectrum Scam Allegations,No,High,No
+440,Pragya Thakur,None,National,None,No,High,Gold Smuggling,Yes,Medium,Yes
+441,David Coleman Headley,None,State,None,No,High,Recruitment Fraud,No,High,Yes
+442,V. K. Sasikala,Businessman,National,None,Yes,High,"Bribery, Corruption",No,High,Yes
+443,Rahul Gandhi,None,National,None,Yes,High,"Bribery, Corruption",No,High,Yes
+444,Manu Sharma,Businessman,National,None,No,High,Illegal Surveillance,No,High,No
+445,Shahabuddin,None,State,CPI,No,High,Hate Speech,No,Medium,Yes
+446,Barkha Dutt,Politician,State,None,Yes,High,"Corruption, Misappropriation",No,Medium,No
+447,Aryan Khan,None,National,None,Yes,Medium,Recruitment Scam,No,High,Yes
+448,Nandan Nilekani,None,National,None,Yes,High,"Murder, Organized Crime",No,Medium,Yes
+449,Tarun Tejpal,Terrorist,National,BJP,Yes,High,"Recruitment Fraud, Corruption",No,High,Yes
+450,Rahul Gandhi,Businessman,International,None,Yes,Medium,Arms Act (Possession of Weapons),No,High,Yes
+451,Praful Patel,None,State,BJP,No,Medium,"Corruption, Misappropriation",No,High,No
+452,Maya Kodnani,Businessman,National,None,Yes,High,"Money Laundering, Bribery",No,High,No
+453,Salman Khan,None,None,None,No,High,"Bank Fraud, Embezzlement",Yes,Medium,Yes
+454,Kangana Ranaut,Businessman,National,None,Yes,High,Loan Defaults,Yes,High,No
+455,Sushma Swaraj,Businessman,State,Ruling Party,Yes,Medium,"Corruption, Misuse of Authority",Yes,High,Yes
+456,Nupur Sharma,None,National,INC,Yes,Medium,Loan Defaults,No,Medium,No
+457,Smriti Irani,Politician,State,BJP,Yes,High,Sexual Harassment Allegations,No,High,No
+458,Gopal Ansal,Businessman,National,Samajwadi Party,No,High,Rape and Murder,Yes,High,Yes
+459,Sanji Ram,Politician,National,BJP,Yes,Medium,Tax Evasion,Yes,High,No
+460,Aryan Khan,Politician,National,AAP,Yes,High,Murder,No,High,Yes
+461,Amit Shah,None,State,BJP,No,High,Sexual Harassment,No,Medium,Yes
+462,Harshad Mehta,None,National,National Conference,Yes,High,"Financial Fraud, Bank Fraud",Yes,Medium,Yes
+463,Lalu Prasad Yadav Family,None,State,None,Yes,High,Money Laundering Allegations,Yes,High,No
+464,Manu Sharma,Politician,National,None,Yes,Medium,Financial Misrepresentation Allegations,No,Medium,Yes
+465,Rana Ayyub,Businessman,National,None,No,High,"Corruption, Bribery",No,High,Yes
+466,Lalu Prasad Yadav,None,National,None,No,Medium,Molestation Allegations,Yes,High,Yes
+467,Anil Ambani,Businessman,National,INC,No,Medium,Controversial Statements,No,High,Yes
+468,Mohammed Shahabuddin,Politician,State,National Conference,Yes,Medium,"Embezzlement, Corruption",Yes,High,No
+469,Akhilesh Yadav,None,National,Ruling Party,Yes,High,Financial Mismanagement Allegations,No,High,Yes
+470,Rajesh Talwar,Businessman,National,None,Yes,High,Money Laundering Allegations,Yes,High,Yes
+471,Sushma Swaraj,Businessman,National,INC,Yes,High,Sedition,No,High,No
+472,Lalit Modi,None,National,None,No,High,"Loan Default, Financial Fraud",Yes,High,No
+473,Himanta Biswa Sarma,None,National,INC,No,Medium,Corruption Allegations,No,High,Yes
+474,Sudipta Sen,None,International,None,No,High,Gold Smuggling,Yes,Medium,Yes
+475,Nandini Mistry,None,National,BJP,No,High,"Murder, Criminal Intimidation",Yes,Medium,Yes
+476,Santosh Kumar Singh,None,Local,Shiv Sena,No,High,Molestation Allegations,Yes,High,No
+477,Arnab Goswami,None,National,None,Yes,Medium,"Murder, Conspiracy",Yes,High,Yes
+478,Ravi Shankar Prasad,None,National,None,Yes,High,"Financial Fraud, Loan Defaults",No,High,Yes
+479,Kunal Maken,None,State,None,No,High,"Murder, Criminal Intimidation",Yes,High,No
+480,Jagadish Tytler,Terrorist,National,None,No,Medium,Loan Scam,Yes,High,Yes
+481,Kunal Maken,None,State,None,No,High,Rape and Murder,Yes,High,No
+482,Unknown Suspect,Politician,International,None,No,Medium,Criminal Negligence (Uphaar Fire Case),No,High,Yes
+483,Kapil Sibal,Politician,International,RJD,No,Medium,Loan Default,No,High,No
+484,Amarmani Tripathi,None,National,Ruling Party,Yes,High,Murder,No,High,Yes
+485,Aryan Khan,Businessman,National,Ruling Party,No,Medium,Financial Fraud Allegations,Yes,High,No
+486,Kavya Madhavan,None,National,None,Yes,Medium,"Murder, Organized Crime",No,High,No
+487,Mohammed Zubair,None,National,None,No,High,"Corruption, Bribery",No,High,No
+488,Kuntal Ghosh,Terrorist,National,None,No,High,Corruption Allegations,No,High,Yes
+489,Salman Khan,None,National,None,No,Medium,Serial Killings,No,High,Yes
+490,Ajmal Kasab,None,National,None,Yes,High,"Corruption, Fraud, Bribery",Yes,Medium,No
+491,Radhe Maa,Politician,National,INC,Yes,Medium,"Rape, Conspiracy",No,Medium,No
+492,Pegasus Spyware Case,None,State,None,No,Medium,"Money Laundering, Bribery",No,High,Yes
+493,P. V. Narasimha Rao,Politician,State,None,Yes,High,"Corruption, Misuse of Authority",Yes,High,No
+494,Pragya Thakur,None,National,None,No,Medium,Recruitment Fraud,Yes,Medium,No
+495,Kuntal Ghosh,None,National,None,No,High,"Financial Fraud, Misappropriation of Funds",Yes,High,No
+496,Narayan Sai,None,National,None,Yes,High,"Terrorism, Murder, Conspiracy",No,High,Yes
+497,Uddhav Thackeray,None,National,None,Yes,High,Corruption Allegations,No,Medium,No
+498,Kapil Sibal,Businessman,National,None,Yes,High,Financial Misrepresentation Allegations,No,Medium,No
+499,Mukesh Singh,None,International,None,Yes,Medium,Corruption Allegations,Yes,Medium,No
+500,Mamata Banerjee,None,State,None,No,High,Pornography Production,Yes,High,Yes
